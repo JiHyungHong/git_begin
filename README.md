@@ -1,10 +1,13 @@
 # git/github 입문
 ## git 입문했어요!
 <<<<<<< HEAD
+<<<<<<< HEAD
 <img src="https://octodex.github.com/images/welcometocat.png" height="300">
 =======
-<img src="https://octodex.github.com/images/welcometocat.png" height="300">
->>>>>>> modify_image
+![Image of octocat]
+<<<<<<< HEAD
+(img src="https://octodex.github.com/images/welcometocat.png" height="300")
+>>>>>>> bdcacd834fe3160fca8ef1a177b5da8d409a48fa
 
 
 
